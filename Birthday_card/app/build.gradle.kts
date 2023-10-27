@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.ble"
+    namespace = "com.example.birthday_card"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.example.ble"
+        applicationId = "com.example.birthday_card"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
